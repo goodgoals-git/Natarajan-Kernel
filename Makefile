@@ -3,7 +3,7 @@ VERSION = 6
 PATCHLEVEL = 18
 SUBLEVEL = 0
 EXTRAVERSION = -rc2
-NAME = Baby Opossum Posse
+NAME = Natarajan-Kernel
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
